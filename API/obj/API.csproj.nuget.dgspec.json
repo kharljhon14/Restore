@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Web projects\\Restore\\api\\API.csproj": {}
+    "D:\\React\\Restore\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Web projects\\Restore\\api\\API.csproj": {
+    "D:\\React\\Restore\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Web projects\\Restore\\api\\API.csproj",
+        "projectUniqueName": "D:\\React\\Restore\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Web projects\\Restore\\api\\API.csproj",
-        "packagesPath": "C:\\Users\\Kharl\\.nuget\\packages\\",
-        "outputPath": "D:\\Web projects\\Restore\\api\\obj\\",
+        "projectPath": "D:\\React\\Restore\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\enriq\\.nuget\\packages\\",
+        "outputPath": "D:\\React\\Restore\\API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Kharl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\enriq\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
