@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\React\\Restore\\API\\API.csproj": {}
+    "D:\\React\\Restore\\api\\API.csproj": {}
   },
   "projects": {
-    "D:\\React\\Restore\\API\\API.csproj": {
+    "D:\\React\\Restore\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\React\\Restore\\API\\API.csproj",
+        "projectUniqueName": "D:\\React\\Restore\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\React\\Restore\\API\\API.csproj",
+        "projectPath": "D:\\React\\Restore\\api\\API.csproj",
         "packagesPath": "C:\\Users\\enriq\\.nuget\\packages\\",
-        "outputPath": "D:\\React\\Restore\\API\\obj\\",
+        "outputPath": "D:\\React\\Restore\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\enriq\\AppData\\Roaming\\NuGet\\NuGet.Config",

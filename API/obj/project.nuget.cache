@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "35BcCQUiD2gcvF0nJeg33XzOIKND4LwdKLYdVuw6JbVipnUNYf8XfBC3d0gHf800mIBaORJwG30NjvOUBL68WQ==",
+  "dgSpecHash": "FQD6mz3SvbjBX7QbbM41RMwrey1O5er+aYFHBbQmqrYA0OhiRDdUbokFKIKmhx6bWyA1jxla+btcX4RdcBcTdw==",
   "success": true,
-  "projectFilePath": "D:\\React\\Restore\\API\\API.csproj",
+  "projectFilePath": "D:\\React\\Restore\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\enriq\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\enriq\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.7\\microsoft.data.sqlite.core.6.0.7.nupkg.sha512",
